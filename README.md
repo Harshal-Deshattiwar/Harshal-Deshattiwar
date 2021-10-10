@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshal-Deshattiwar
-- 👀 I’m interested in technologies
+- 👀 I’m interested * .
 - 🌱 I’m currently learning JAVA
 - ✨ want to learn more about open source
 <!---
