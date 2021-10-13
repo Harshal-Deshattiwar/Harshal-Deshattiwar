@@ -19,12 +19,12 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Web Development**
 
-- ⚡ Fun fact   import learn.programming.language.*   ; // It would be easier this way
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshal-deshattiwar-09b9661b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-deshattiwar-09b9661b8" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact :-  import learn.programming.language.*   ; // It would be easier this way
+
+<h3>Connect with me :   <a href="https://linkedin.com/in/harshal-deshattiwar-09b9661b8" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-deshattiwar-09b9661b8" height="30" width="40" /></a> </h3> 
+
+
+
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal-deshattiwar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="harshal-deshattiwar" />
 <h3 align="left">Languages and Tools:</h3>
