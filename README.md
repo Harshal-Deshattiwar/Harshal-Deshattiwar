@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal-deshattiwar&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="harshal-deshattiwar" />  --->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-deshattiwar&langs_count=8&theme=highcontrast" alt="harshal-deshattiwar" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-deshattiwar&langs_count=3&theme=highcontrast" alt="harshal-deshattiwar" />
 <hr>
 <h3 align="left">Languages and Tools:</h3>  
 
