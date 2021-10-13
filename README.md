@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 <div align="center">
-<img src="https://ipfs.io/ipfs/QmZMk7qy7J1PFAe2CKfeFbSiUN5eRwaRtY2gFoKCT8dDmi">
+<img src="https://c.tenor.com/z5TcdvAN0j0AAAAC/luffy-one-piece.gif">
+ <!---  <img src="https://c.tenor.com/8mknnuJMRNkAAAAC/usopp-one-piece.gif"> --->
 </div>
 <br>
 
