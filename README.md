@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Connect with me :   <a href="https://linkedin.com/in/harshal-deshattiwar-09b9661b8" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-deshattiwar-09b9661b8" height="30" width="40" /></a> </h3> 
 <hr>
+
+<img align="right" src="https://raw.githubusercontent.com/Harshal-Deshattiwar/Harshal-Deshattiwar/main/elements/techstack.gif"  height="200" width="250">
 <!---
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal-deshattiwar&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="harshal-deshattiwar" />  --->
 
@@ -45,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<br>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-deshattiwar&langs_count=3&theme=highcontrast" alt="harshal-deshattiwar" />
 <img  src="https://github-readme-stats.vercel.app/api?username=harshal-deshattiwar&show_icons=true&theme=highcontrast&locale=en" alt="harshal-deshattiwar" /></p>
