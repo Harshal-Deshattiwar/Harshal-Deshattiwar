@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px">, I'm <a href="https://stanleylim.me/">Harshal Deshattiwar</a></h1>
+<h1 align="center">Hi , I'm <a href="https://stanleylim.me/">Harshal Deshattiwar</a></h1>
 <h3 align="center">On a learning journey.</h3>
 
 <br>
