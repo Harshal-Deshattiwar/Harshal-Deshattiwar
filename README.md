@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- 🔭 I’m currently studying pg-DAC at **CDAC Acts Pune**
+- 🔭 I’m currently working for eClerx **eClerx**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on **Web Development**
 
 - ⚡ Fun fact :-  import learn.programming.language.*   ; // It would be easier this way
 
