@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- 🔭 I’m currently working for **eClerx**
+- 🔭 I’m currently working for **Accrualify**
 
 - 🌱 I’m currently working on **Web Development**
 
